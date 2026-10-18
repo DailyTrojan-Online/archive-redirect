@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Archive redirect
+ * Plugin Name: Ancile Archive redirect
  * Description: Redirects users trying to access an article of a specific publishing date to the archive website.
  * Author: Noah Pinales
  */
